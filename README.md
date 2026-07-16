@@ -10,7 +10,7 @@ O acompanhamento manual de pendências logísticas gera atrasos e demanda muito 
 
 ## 💡 Solução
 
-Automação integrada com Google Sheets que através da atualização das pendências é enviado e-mails de forma massiva apenas selcionando as transportadoras.
+Automação integrada com Google Sheets que através da atualização das pendências é enviado e-mails de forma massiva apenas selecionando as transportadoras.
 
 ## 🛠 Tecnologias
 
